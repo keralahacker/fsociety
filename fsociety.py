@@ -124,8 +124,8 @@ class fsociety:
         clearScr()
         self.createFolders()
         print (fsocietylogo + color.RED + '''
-       }--------------{+} Coded By Manisso {+}--------------{
-       }--------{+}  GitHub.com/Manisso/fsociety {+}--------{
+       }--------------{+} Coded By Manisso & keralahacker {+}--------------{
+       }--------{+}  GitHub.com/keralahacker/fsociety {+}--------{
     ''' + color.END + '''
        {1}--Information Gathering
        {2}--Password Attacks
